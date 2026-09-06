@@ -93,4 +93,4 @@ export const UserTable = () => {
   );
 };
 
-export const UserTableWithLoading = withLoading(UserTable);
+// export const UserTableWithLoading = withLoading(UserTable);
